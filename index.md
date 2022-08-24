@@ -8,3 +8,6 @@ $git add
 $git commit
 $git init
 ```
+- [x] enroll in bootcamp
+- [ ] learn front end
+- [ ] learn back end
